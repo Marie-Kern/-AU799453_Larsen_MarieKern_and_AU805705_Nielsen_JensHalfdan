@@ -1,4 +1,4 @@
-# DAM-prtf, Jens Halfdan Nielsen and Marie Kern Laarsen
+# DAM-Portfolio, Jens Halfdan Nielsen and Marie Kern Larsen
 
 ## Description
 
