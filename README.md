@@ -6,7 +6,9 @@ This repository is for the portfolio exam in Digitale Arkiver og Metoder at Aarh
 Here you will find the additional files for:
 
 Prtf 2 Danish Monarchs
+
 Prtf 3 Create Interactive Maps in R: "Tell a story through a map"
+
 Prtf 5 Final Project: “The Patriarchs of the Asylum - Jyske Asyl 1852-1945”
 
 
