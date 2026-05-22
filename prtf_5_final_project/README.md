@@ -13,7 +13,7 @@ We have looked at the overall development from 1878-1945, the development of 4 d
 Jens Halfdan Nielsen
 202506105@post.au.dk
 
-Marie Kern Laarsen
+Marie Kern Larsen
 202508464@post.au.dk
 
 ## License
