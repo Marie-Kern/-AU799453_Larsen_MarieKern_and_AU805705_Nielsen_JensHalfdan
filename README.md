@@ -9,7 +9,7 @@ Prtf 2 Danish Monarchs
 
 Prtf 3 Create Interactive Maps in R: "Tell a story through a map"
 
-Prtf 5 Final Project: “The Patriarchs of the Asylum - Jyske Asyl 1852-1945”
+Prtf 5 Final Project: “The Patriarchs of the Asylum - Jyske Asyl 1852-1921”
 
 
 ## Authors
