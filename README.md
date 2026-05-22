@@ -17,5 +17,5 @@ Prtf 5 Final Project: “The Patriarchs of the Asylum - Jyske Asyl 1852-1945”
 Jens Halfdan Nielsen
 202506105@post.au.dk
 
-Marie Kern Laarsen
+Marie Kern Larsen
 202508464@post.au.dk 
