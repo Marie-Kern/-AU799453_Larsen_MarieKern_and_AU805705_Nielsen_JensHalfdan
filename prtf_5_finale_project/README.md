@@ -18,9 +18,9 @@ Marie Kern Laarsen
 
 ## License
 
-###Jyske_asyl_treatment_results_1878-1945_data.csv: No Licence can be assigned
+### Jyske_asyl_treatment_results_1878-1945_data.csv: No Licence can be assigned
 “Beretning om Sindssygehospitalerne i Danmark i året ... : report on Mental Hospitals in Denmark.” from the years 178-1945 was used to create the data set.  We have no available information regarding licensing, and after consulting the Nobel Library staff and Aarhus University, we have been advised not to assign a licence to the data. 
 
-###selmer_treatment_results_1852-1877_data.csv: PMD
+### selmer_treatment_results_1852-1877_data.csv: PMD
 Data from the book “Sindssygeanstalten ved Aarhus 1852-77” (1879) by H. Selmer, which is under public domain, was used to create the data set.
  
