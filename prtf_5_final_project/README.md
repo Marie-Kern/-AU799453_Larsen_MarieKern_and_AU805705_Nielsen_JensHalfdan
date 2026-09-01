@@ -18,10 +18,10 @@ Marie Kern Larsen
 
 ## License
 ### Our project license
-
+CC BY-SA
 
 ### Jyske_asyl_treatment_results_1878-1945_data.csv: No License can be assigned
-“Beretning om Sindssygehospitalerne i Danmark i året ... : report on Mental Hospitals in Denmark.” from the years 178-1945 was used to create the data set. 
+“Beretning om Sindssygehospitalerne i Danmark i året ... : report on Mental Hospitals in Denmark.” from the years 178-1945, which is under public domain, was used to create the data set.
 
 ### selmer_treatment_results_1852-1877_data.csv: PMD
 Data from the book “Sindssygeanstalten ved Aarhus 1852-77” (1879) by H. Selmer, which is under public domain, was used to create the data set.
